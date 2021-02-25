@@ -1,0 +1,68 @@
+marquee{
+    background-color: blue;
+    color: white;
+}
+#contactUs iframe
+{
+    width: 100%;
+}
+.travel_main{
+    border: 1px solid green;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    margin-bottom: 20px;
+}
+.travel_main img{
+    width: 100%;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+#runningclub{
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 25px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+    width: 200px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
+.environment_li_1 p{
+    text-align: center;
+    margin-left: 230px;
+}
+.environment_li_1 h4{
+    text-align: center;
+}
+#inside p{
+    text-align: center;
+    font-size: 20px;
+}
+#item p{
+    text-align: center;
+    font-size: 20px;
+}
+#inside img{
+    align-content: center;
+}
